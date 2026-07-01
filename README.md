@@ -1,9 +1,6 @@
 # 🛡️ Secure Data Wiping (SDW) - Enterprise Edition
 
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Platform Support](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-orange.svg?style=for-the-badge)](https://github.com/devivaddadi/secure_data_wiping)
-[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-secure__data__wiping-blueviolet.svg?style=for-the-badge&logo=github)](https://github.com/devivaddadi/secure_data_wiping)
+
 
 An enterprise-grade, context-aware file and directory sanitization tool. Engineered with a beautiful, modern **CustomTkinter** GUI, the **Secure Data Wiping (SDW)** system dynamically adapts its destruction algorithms based on the target storage hardware (SSD vs. HDD), provides multi-layered file destruction (data overwriting, header corruption, timestomping, and recursive file obfuscation), generates cryptographic certificates of destruction, and maintains audit-ready sanitization logs.
 
@@ -155,6 +152,6 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more details.
 
 ## 📧 Contact & Support
 
-*   **Developer:** Devi Prasad Addadi
+*   **Developer:** Devi Vaddadi
 *   **Project Link:** [https://github.com/devivaddadi/secure_data_wiping](https://github.com/devivaddadi/secure_data_wiping)
 *   **Issues:** [Submit an issue](https://github.com/devivaddadi/secure_data_wiping/issues)
